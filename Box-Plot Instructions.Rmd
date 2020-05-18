@@ -6,3 +6,22 @@ output:
           highlight: github
 
 ---
+
+![](C:\Users\19392516\Documents\GitHub\Docs\Box Plot Image.png)
+
+
+
+
+
+
+Values within the middle shaded area contain 50% percent of our data
+
+
+
+
+
+
+
+
+
+
