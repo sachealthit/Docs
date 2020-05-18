@@ -11,13 +11,14 @@ output:
 
 
 
+* The center line represents the median, A split 50/50 split of the data. 
+     - The median is resistant to extreme values, thus a reliable metric for wait times.
 
 
-
-Values within the middle shaded area contain 50% percent of our data
-
+* Values within the middle shaded area consist of 50% of our data
 
 
+* Points beyond the outer lines are considered outliers.
 
 
 
