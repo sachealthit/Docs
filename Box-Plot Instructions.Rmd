@@ -1,0 +1,8 @@
+---
+title: "How to Read a Box-Plot"
+output: 
+     prettydoc::html_pretty:
+          theme: leonids
+          highlight: github
+
+---
