@@ -8,7 +8,13 @@
 
 ## *Description*
 
-Hosts external resources that can be used in Tableau dashboards.
+Hosts external resources that can be used in Tableau dashboards examples are listed below:
+
+* Placing the SACHS logo in the left upper corrner.
+
+* Using the shapes mark card with custom images.
+
+* 
 
 
 
