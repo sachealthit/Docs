@@ -16,5 +16,7 @@ Hosts external resources that can be used in Tableau dashboards examples are lis
 
 * Instructional graphics.
 
+* Tableau dashboard tip sheets.
+
 
 
